@@ -1,0 +1,59 @@
+header {
+   
+}
+div.header-main {
+    color: white;
+    background-image: linear-gradient(to right,rgba(245, 110, 0, 0.947),rgb(221, 221, 16));
+    margin: 0 5px;
+}
+
+.main-row {
+    display: inline-block;
+}
+p {
+    text-align: center;
+    margin-right: 75px;
+}
+
+div ul.one-main {
+list-style-type: none;
+display: inline;
+margin: 0 10px;
+}
+
+.main-row button {
+    padding:10px 40px;
+    margin-left: 150px;
+    color: white;
+    background-color: rgb(23, 208, 23);
+
+}
+p.main-row {
+    font-size: 32px;
+}
+.space {
+    margin: 0 45px;
+}
+.space wide {
+    margin-left: 25%;
+}
+div ul li.cat {
+    margin:auto;
+    padding: 25px;
+}
+div ul li.qwe {
+    margin-left: 50%;
+    margin-top: 5px;
+}
+section div img {
+    width: 1300px;
+    height: 550px;
+    min-width: auto;
+}
+ul li.main-row:hover {
+    color: blue;
+    font-size: larger;
+}
+div.main-row button:hover {
+    background-color: greenyellow;
+}
